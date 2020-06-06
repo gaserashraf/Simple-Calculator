@@ -1,0 +1,177 @@
+.clear
+{
+    clear: both;
+}
+
+.con
+{
+    height: 500px;
+    border: 2px solid #32c776;
+    border-radius: 10px;;
+    width: 300px;
+    margin-left: 150px;
+    margin-top: 50px;
+    padding-left: 20px;
+    float: left;
+}
+.con .text
+{
+    width: 100%;
+    height: 60px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.con .text div
+{
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+}
+.con .buttuns
+{
+    margin-bottom: 10px;
+}
+.con button
+{
+    margin-right: 5px;
+    width: 60px;
+    height: 60px;
+    background: none;
+    border: none;
+    border-radius: 20px;
+    outline:none;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.con .normal
+{
+    background-color:#e7f1f3;
+}
+.con .normal:hover
+{
+    background-color:#b6c4c7;
+}
+.con .custom
+{
+    background-color: #ff9606;
+}
+.con .custom:hover
+{
+    background-color: #eb8b04;
+}
+.con .custom1
+{
+    background-color: #32c776;
+    width: 129px;
+}
+.con .custom1:hover
+{
+    background-color: #2baf66;
+}
+.con  .d
+{
+    width: 130px;
+    background-color:#e7f1f3;
+}
+.con  .dDark
+{
+    width: 130px;
+    background-color:#232428;
+    color: #eff0f4;
+}
+.con  .dDark:hover
+{
+    background-color:#2f3035;
+}
+.con  .d:hover
+{
+    background-color:#b6c4c7;
+}
+
+
+.Da
+{
+    margin: 60px 0 0 60px;
+    border-radius: 10px;
+    height: 50px;
+    width: 220px;
+    color: #e7f1f3;
+    background-color: #17181a;
+    outline:none;
+    border: 2px solid #b6c4c7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.Wi
+{
+    margin: 60px 0 0 60px;
+    border-radius: 10px;
+    height: 50px;
+    width: 220px;
+    color: white;
+    background-color: #05caba;
+    outline:none;
+    border: 2px solid #b6c4c7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.con .darkN
+{
+    background-color:#232428;
+    color: #eff0f4;
+}
+.con  .dDark:hover
+{
+    background-color:#2f3035;
+}
+.con .darkN:hover
+{
+    background-color:#2f3035;
+}
+
+.conDark
+{
+    height: 500px;
+    border: 2px solid #32c776;
+    border-radius: 10px;;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 150px;
+    padding-left: 20px;
+    float: left;
+    color: white;
+    background-color: #17181a;
+}
+
+.nav
+{
+    margin-top: 160px;
+}
+.nav p
+{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+.p
+{
+    width: 30%;
+    margin-top: 0;
+    float: left;
+}
+.p p
+{
+    font-weight: bold;
+    font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    margin-left: 20px;
+}
+.p h1
+{
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
