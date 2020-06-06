@@ -122,6 +122,10 @@
     background-color:#232428;
     color: #eff0f4;
 }
+.con  .dDark:hover
+{
+    background-color:#2f3035;
+}
 .con .darkN:hover
 {
     background-color:#2f3035;
