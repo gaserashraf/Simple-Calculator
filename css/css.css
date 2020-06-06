@@ -79,6 +79,10 @@
     background-color:#232428;
     color: #eff0f4;
 }
+.con  .dDark:hover
+{
+    background-color:#2f3035;
+}
 .con  .d:hover
 {
     background-color:#b6c4c7;
